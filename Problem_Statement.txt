@@ -1,0 +1,7 @@
+Customer Problem Context: Our manufacturing operations are experiencing unexpected machine failures, resulting in unplanned downtime, 
+reduced production efficiency, and increased maintenance costs. These failures occur with little to no warning, and we do not have 
+adequate insights into which machines are at risk of failure. As a result, we are unable to effectively plan for maintenance and prevent
+production interruptions, leading to costly operational disruptions and delayed product deliveries.
+
+Goal : The goal of this project is to develop a machine learning-based predictive maintenance model that accurately classifies 
+whether a machine will fail or not in advance based on various operational data and sensor readings.
